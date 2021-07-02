@@ -1,33 +1,41 @@
-.logo {
-  font-family: 'PT Serif', serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
+
+@font-face {
+    font-family: 'pt_serifbold';
+    src: url('fonts/ptserif-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
-h1 {
-  font-family: 'PT Serif', sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 50px;
+
+
+
+
+@font-face {
+    font-family: 'pt_serifbold_italic';
+    src: url('fonts/ptserif-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
-p {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
+
+
+
+
+@font-face {
+    font-family: 'pt_serifitalic';
+    src: url('fonts/ptserif-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
-a {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  color: #000000;
-  text-decoration: none;
-}
-button {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  color: #FFFFFF;
+
+
+
+
+@font-face {
+    font-family: 'pt_serifregular';
+    src: url('fonts/ptserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
